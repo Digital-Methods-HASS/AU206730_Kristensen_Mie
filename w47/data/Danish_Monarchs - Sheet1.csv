@@ -1,0 +1,57 @@
+ID,Name,YearOfBirth,YearOfDeath,ReignFromYear ,ReignToYear
+1,Gorm den Gamle ,,958,,958
+2,Harald (1.) Blåtand,,987,958,987
+3,Svend (1.) Tveskæg,,1014,987,1014
+4,Harald (2.) Svensen,,1018,1014,1018
+5,Knud (2.) den Store,995,1035,1018,1035
+6,Hardeknud (Knud 3.) ,1020,1042,1035,1042
+7,Magnus (1.) den Gode ,1024,1047,1042,1047
+8,Svend (2.) Estridsen ,,1076,1047,1074
+9,Harald (3.) Hén,,1080,1074,1080
+10,Knud (4.) den Hellige,,1086,1080,1086
+11,Oluf (1.) Hunger,,1095,1086,1095
+12,Erik (1.) Ejegod,1056,1103,1095,1103
+13,Niels,,1134,1104,1134
+14,Erik (2.) Emune,,1137,1134,1137
+15,Erik (3.) Lam,,1146,1137,1146
+16,Svend (3.) Grathe,,1157,1146,1157
+17,Knud (5.) Magnussen,,1157,1146,1157
+18,Valdemar (1.) den Store,1131,1182,1157,1182
+19,Knud 6.,1163,1202,1182,1202
+20,Valdemar (2.) Sejr,1170,1241,1202,1241
+21,Erik (4.) Plovpenning,1216,1250,1241,1250
+22,Abel,1218,1252,1250,1252
+23,Christoffer 1.,1219,1259,1252,1259
+24,Erik (5.) Klipping,1249,1286,1259,1286
+25,Erik (6.) Menved,1274,1319,1286,1319
+26,Christoffer 2.,1276,1326,1320,1326
+27,Valdemar (3.) Eriksen,1314,1330,1326,1330
+28,Christoffer 2.,1276,1332,1330,1332
+29,Interregnum (periode uden regent),,1340,1332,1340
+30,Valdemar (4.) Atterdag,1320,1375,1340,1375
+31,Oluf 2.,1370,1387,1376,1387
+32,Margrete 1.,1353,1412,1387,1412
+33,Erik (7.) af Pommern,1382,1459,1412,1439
+34,Christoffer (3.) af Bayern,1416,1448,1440,1448
+35,Christian 1.,1426,1481,1448,1481
+36,Hans,1455,1513,1481,1513
+37,Christian 2.,1481,1559,1513,1523
+38,Frederik 1.,1471,1533,1523,1533
+39,Interregnum (periode uden regent),,1534,1533,1534
+40,Christian 3.,1503,1559,1534,1559
+41,Frederik 2.,1534,1588,1559,1588
+42,Christian 4.,1577,1648,1588,1648
+43,Frederik 3.,1609,1670,1648,1670
+44,Christian 5.,1646,1699,1670,1699
+45,Frederik 4.,1671,1730,1699,1730
+46,Christian 6.,1699,1746,1730,1746
+47,Frederik 5.,1723,1766,1746,1766
+48,Christian 7.,1749,1808,1766,1808
+49,Frederik 6.,1768,1839,1808,1839
+50,Christian 8.,1786,1848,1839,1848
+51,Frederik 7.,1808,1863,1848,1863
+52,Christian 9.,1818,1906,1863,1906
+53,Frederik 8.,1843,1912,1906,1912
+54,Christian 10.,1870,1947,1912,1947
+55,Frederik 9.,1899,1972,1947,1972
+56,Margrethe 2.,1940,,1972,
