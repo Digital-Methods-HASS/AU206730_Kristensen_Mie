@@ -1,6 +1,6 @@
 ---
-title: "Scraping police-killing data with R"
-author: "Trine and Mie"
+title: "Scraping WW2 casualties from Wikipedia"
+author: "Tina Maria Villesen Skov and Mie Højfeldt Kristensen"
 date: "4 Dec 2021, updated `r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
