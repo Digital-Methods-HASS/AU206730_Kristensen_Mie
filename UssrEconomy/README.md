@@ -1,4 +1,4 @@
-# ussreconomy
+# USSR Economy
 
 ## Generate HTML
 
