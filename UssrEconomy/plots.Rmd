@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # About
-???
+We will use the data output, which consists of various diagrams that visually substantiate our arguments for the development of prosperity in different states in Eastern Europe in our exam project above.
 
 ## FAIR
 We areadhering to the FAIR compliance principles.
@@ -155,52 +155,42 @@ drawPurchasingPowerGraph <- function(){
 
 ## Actual plots
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawGpdGraph(gdpYearlyGrowthPercent, "GDP yearly growth in percent", "% of growth", 1.2)
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawGpdGraph(gdpPerCapitaYearlyUSD, "GDP per Capita yearly in US dollars", "USD", 1.2)
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawGpdGraph(gdpPerCapitaYearlyPercent, "GDP per Capita yearly growth in percent", "% of growth", 1.2)
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawGpdGraph(gdpYearlyInflationPercent, "Yearly inflation in percent", "% of inflation", 1)
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawGpdGraph(unemployment, "Unemployment of total labor force in percent", "% of unemployment", 1.2)
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawPurchasingPowerGraph()
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawPossesionGraph(spendings, "Possession of Refrigerator", "Possesion of refrigiator in household", "line")
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawPossesionGraph(spendings, "Possession of Refrigerator", "Possesion of refrigiator in household", "bar")
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawPossesionGraph(spendings, "Possession of Telephone", "Possesion of telephone in household", "line")
 ```
 
-### Some description
 ```{r fig.width = 14, warning=FALSE, message=FALSE, echo=TRUE}
 drawPossesionGraph(spendings, "Possession of Washing Machine", "Possesion of washing machine in household", "line")
 ```
